@@ -13,3 +13,8 @@ Mi numero es 993 653 980
 - HTML
 - CSS
 - Javascrit 
+
+ ## hobbies 
+
+- baile 
+
