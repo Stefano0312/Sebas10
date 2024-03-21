@@ -14,7 +14,14 @@ Mi numero es 993 653 980
 - CSS
 - Javascrit 
 
+## Skills 
+
+- Barras 
+- Punchline 
+- metricas 
+
  ## hobbies 
 
 - baile 
+
 
