@@ -24,4 +24,7 @@ Mi numero es 993 653 980
 
 - baile 
 
+## Languages 
+- English
+- spanish 
 
